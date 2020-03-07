@@ -15,7 +15,7 @@
     "@reach/portal": "^0.6.2",
     "@reach/utils": "^0.6.1",
     "escape-regexp": "0.0.1",
-    "highlight-words-core": "1.2.0",
+    "highlight-words-core": "1.2.2",
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
