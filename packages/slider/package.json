@@ -8,7 +8,7 @@
     "build": "node ../../shared/build-package"
   },
   "dependencies": {
-    "@reach/auto-id": "^0.6.1",
+    "@reach/auto-id": "^0.8.5",
     "@reach/utils": "^0.6.1",
     "warning": "^4.0.3"
   },
