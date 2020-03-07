@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@reach/auto-id": "^0.6.1",
-    "@reach/popover": "^0.6.2",
+    "@reach/popover": "^0.8.5",
     "@reach/portal": "^0.6.2",
     "@reach/utils": "^0.6.1",
     "escape-regexp": "0.0.1",
