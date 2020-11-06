@@ -14,7 +14,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^1.5.1",
+    "@mdx-js/mdx": "^1.5.6",
     "@mdx-js/react": "^1.5.1",
     "@reach/alert": "file:../packages/alert",
     "@reach/alert-dialog": "file:../packages/alert-dialog",
